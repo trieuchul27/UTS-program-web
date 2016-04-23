@@ -1,0 +1,53 @@
+
+/* 
+    Created on : Apr 23, 2016, 2:45:21 PM
+    Author     : Labkom-11
+*/
+.rigth{
+    text-align: right;
+}
+#rigth{
+    text-align: right;
+}
+body{
+    /* This is Comment */
+    background-color : greenyellow;
+}
+h1{
+    font-family: "Harrington";
+    color: background;
+    text-align: left;
+}
+p{
+    font-size: 20px;
+    color: red;
+}
+
+#header{
+    background-color: pink;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+#nav{
+   line-height: 30px;
+   background-color: #eeeeee;
+   height:500px;
+   width: 150px;
+   float:right;
+   padding: 5px;
+}
+#section{
+    width:1000px;
+    float: left;
+    padding:10px;
+}
+#footer{
+    background-color: black;
+    color: white;
+    clear: both;
+    text-align: center;
+    padding: 5px;
+}
+
+
